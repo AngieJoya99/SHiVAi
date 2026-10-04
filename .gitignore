@@ -1,0 +1,8 @@
+dataset/
+resultados/
+validacion/
+logs/
+model/
+apptainer/SynthSeg_models.zip
+config.yml
+Comandos.ipynb
